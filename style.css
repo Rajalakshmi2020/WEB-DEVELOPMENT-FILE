@@ -4,7 +4,7 @@
 body{
     margin: 0px;
     padding: 0px;
-    font: poppins;
+    font: normal;
 }
 #main{
     width: 100%;
@@ -20,4 +20,7 @@ nav{
     left: 0;
     width: 100%;
     background-color: white;
+}
+.logo img{
+    height: 45px;
 }
